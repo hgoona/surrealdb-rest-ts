@@ -1,6 +1,6 @@
 {
   "name": "surrealdb-rest-ts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Stateless SurrealDB client built for serverless architectures",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -12,7 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/martinschaer/surrealdb-rest-ts.git"
+    "url": "git+https://github.com/hgoona/surrealdb-rest-ts.git"
+    
   },
   "keywords": [
     "surrealdb",
